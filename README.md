@@ -41,3 +41,13 @@
 - построения корректных бизнес-метрик
 - визуального анализа данных
 - создания интерактивных BI-дашбордов
+
+##Общий вид дашборда
+<img width="1325" height="741" alt="image" src="https://github.com/user-attachments/assets/2d866cb0-612a-48cc-925e-fa0fda090d5d" />
+## Прибыль по группам скидок 
+<img width="1361" height="767" alt="image" src="https://github.com/user-attachments/assets/9463616b-35df-4078-ad59-5417e14f3b6c" />
+## Маржа по категориям
+<img width="1308" height="791" alt="image" src="https://github.com/user-attachments/assets/ea49cbed-1357-444a-8712-604bdeaba4c8" />
+
+
+
